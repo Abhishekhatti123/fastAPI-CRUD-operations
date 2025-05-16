@@ -49,7 +49,3 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
    ```
    http://127.0.0.1:8000/docs
    ```
-
-## License
-
-This project is licensed under the MIT License.
